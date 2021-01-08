@@ -17,3 +17,5 @@ https://github.com/SuTn/Littro_model/blob/main/Yolov5/make_txt.py
 将标签格式转换为yolo形式
 其中classes = ['person','car'] 由自己数据集的定义实现
 
+https://github.com/SuTn/Littro_model/blob/main/Yolov5/voc_label.py
+
