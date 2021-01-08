@@ -19,3 +19,4 @@ https://github.com/SuTn/Littro_model/blob/main/Yolov5/make_txt.py
 
 https://github.com/SuTn/Littro_model/blob/main/Yolov5/voc_label.py
 
+## 5.根据数据集创建自己的data.yaml文件
