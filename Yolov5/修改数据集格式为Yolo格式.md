@@ -16,6 +16,7 @@ https://github.com/SuTn/Littro_model/blob/main/Yolov5/make_txt.py
 ## 4.在data目录下创建voc_label.py
 将标签格式转换为yolo形式
 其中classes = ['person','car'] 由自己数据集的定义实现
+
 **注意** 生成的train.txt  中图片为绝对路径，相对路径时报错 建议使用绝对路径
 
 https://github.com/SuTn/Littro_model/blob/main/Yolov5/voc_label.py
