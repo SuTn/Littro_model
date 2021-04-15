@@ -21,5 +21,7 @@ https://github.com/SuTn/Littro_model/blob/main/Yolov5/make_txt.py
 
 https://github.com/SuTn/Littro_model/blob/main/Yolov5/voc_label.py
 
-## 5.根据数据集创建自己的data.yaml文件
+## 5.将数据集图片复制到images中
+
+## 6.根据数据集创建自己的data.yaml文件
 参考data中的yaml文件自行修改即可
